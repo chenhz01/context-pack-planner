@@ -6,6 +6,8 @@ greedy first-fit with a must-include reserve, deterministic tie-breaking
 and a `plan_hash` so the same manifest always yields a byte-reproducible
 plan. Pure standard library, single file, offline.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Assembling a context window from a system prompt, retrieved documents, and
